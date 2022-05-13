@@ -53,6 +53,7 @@ Things that are planned to be added: 3D Type of symmetry, Deleting one block and
 | WIP | X, Y, Z (Array) | preview/img6.png |
 
 * Gold Block - Symmetry point
+* WIP - Work In Progress, feature is yet to be added.
 
 ## Contributing
 
