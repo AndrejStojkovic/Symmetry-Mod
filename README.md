@@ -1,6 +1,3 @@
-# Symmetry-Mod
-A mod created to make building in Minecraft easier.
-
 <p align="center">
   <a href="https://github.com/AndrejStojkovic/Symmetry-Mod">
     <img src="symmetrymod.png" alt="Logo" width=256 height=256>
@@ -28,6 +25,11 @@ A mod created to make building in Minecraft easier.
 - Put it in the 'mods' folder.
 - Load game.
 
+## Status
+
+This mod is WIP and will be updated continously in the future.  
+Things that are planned to be added: 3D Type of symmetry, Deleting one block and deleting all the other blocks in the symmetry and more...
+
 ## Commands list
 
 | Command name | Usage | Description |
@@ -39,10 +41,14 @@ A mod created to make building in Minecraft easier.
 | symmetry off | /symmetry off | Disables symmetry building |
 | symmetry type| /symmetry type (num) | Sets the type of symmetry for building. More info below |
 
+# Type of Symmetry
 
-## Status
-
-Here goes all the budgets
+| Type No. | Coordinate Axes | Preview |
+| 1 | X, Z | preview/img1.png |
+| 2 | X, Z (Diagonal) | preview/img2.png |
+| 3 | X | preview/img3.png |
+| 4 | Z | preview/img4.png |
+| WIP | X, Y, Z | preview/img5.png |
 
 ## Contributing
 
