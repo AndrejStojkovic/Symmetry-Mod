@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+[[mods]]
+modId="symmetry"
+version="${file.jarVersion}"
+displayName="Symmetry Mod"
+logoFile="symmetrymod.png"
+credits="A mod for easier building."
+authors="Devetka" #optional
+description='''
+A mod created to make building in Minecraft easier.
+Symmetry made easy.
+'''
+
+[[dependencies.symmetry]]
+    modId="forge"
+    mandatory=true 
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.symmetry]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
