@@ -50,6 +50,9 @@ Things that are planned to be added: 3D Type of symmetry, Deleting one block and
 | 3 | X | preview/img3.png |
 | 4 | Z | preview/img4.png |
 | WIP | X, Y, Z | preview/img5.png |
+| WIP | X, Y, Z (Array) | preview/img6.png |
+
+* Gold Block - Symmetry point
 
 ## Contributing
 
