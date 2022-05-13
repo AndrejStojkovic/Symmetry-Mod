@@ -44,6 +44,7 @@ Things that are planned to be added: 3D Type of symmetry, Deleting one block and
 # Type of Symmetry
 
 | Type No. | Coordinate Axes | Preview |
+|----------|-----------------|---------|
 | 1 | X, Z | preview/img1.png |
 | 2 | X, Z (Diagonal) | preview/img2.png |
 | 3 | X | preview/img3.png |
