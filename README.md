@@ -41,7 +41,7 @@ Things that are planned to be added: 3D Type of symmetry, Deleting one block and
 | symmetry off | /symmetry off | Disables symmetry building |
 | symmetry type| /symmetry type (num) | Sets the type of symmetry for building. More info below |
 
-# Type of Symmetry
+### Type of Symmetry
 
 | Type No. | Coordinate Axes | Preview |
 |----------|-----------------|---------|
